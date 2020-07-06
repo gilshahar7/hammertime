@@ -1,0 +1,9 @@
+Package: com.gilshahar7.hammertime
+Name: HammerTime
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: gilshahar7 <gilshahardex99@gmail.com>
+Author: gilshahar7 <gilshahardex99@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
